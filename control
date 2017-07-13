@@ -1,0 +1,8 @@
+Package: org.thebigboss.liveeffectsenabler
+Name: Live Effects Enabler
+Depends: mobilesubstrate, firmware (>= 7.0), gsc.still-camera | gsc.front-facing-camera
+Version: 1.0
+Architecture: iphoneos-arm
+Description: enable the missing camera filters feature for unsupported devices.
+Author: PoomSmart
+Section: Tweaks
